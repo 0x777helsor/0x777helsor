@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Kingsley Amorie 👋
 
-<!--
-**0x777helsor/0x777helsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting intelligent web applications and autonomous systems. 
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
+* **Languages:** Python, TypeScript, JavaScript, Go
+* **Frontend:** React, HTML/CSS, Tailwind
+* **Backend & APIs:** Node.js, RESTful APIs, Webhooks
+* **AI & Automation:** OpenAI API, LangChain, n8n, Make.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I'm Focused On
+* Building full-stack web applications integrated with Large Language Models (LLMs).
+* Designing autonomous multi-step automation workflows to solve real business bottlenecks.
+* Bridging traditional backend engineering with modern AI agentic workflows.
+
+📫 **Reach out:** amoriennaemeka@gmail.com / kingsleyamorie365@gmail.com
