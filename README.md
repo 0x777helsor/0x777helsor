@@ -1,17 +1,19 @@
 ### Hi, I'm Kingsley Amorie 👋
 
-Crafting intelligent web applications and autonomous systems. 
+Crafting intelligent web applications and autonomous systems. Full-Stack Engineer bridging traditional web apps with AI automation.
 
 #### 🛠️ Tech Stack
-* **Languages:** Python, TypeScript, JavaScript, Go
-* **Frontend:** React, HTML/CSS, Tailwind
-* **Backend & APIs:** Node.js, RESTful APIs, Webhooks
-* **AI & Automation:** OpenAI API, LangChain, n8n, Make.com
+
+**Languages & Frontend:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+**Backend, AI & Automation:**
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
@@ -23,4 +25,5 @@ Crafting intelligent web applications and autonomous systems.
 * Designing autonomous multi-step automation workflows to solve real business bottlenecks.
 * Bridging traditional backend engineering with modern AI agentic workflows.
 
-📫 **Reach out:** amoriennaemeka@gmail.com / kingsleyamorie365@gmail.com
+#### 📫 Connect With Me
+* Email: [amoriennaemeka@gmail.com](mailto:amoriennaemeka@gmail.com)
